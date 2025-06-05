@@ -1,0 +1,26 @@
+﻿@inherits LayoutComponentBase
+
+@* Required *@
+<MudThemeProvider @bind-IsDarkMode="@_isDarkMode" Theme="_theme"/>
+<MudPopoverProvider />
+
+@* Needed for dialogs *@
+<MudDialogProvider />
+
+@* Needed for snackbars *@
+<MudSnackbarProvider />
+
+<MudText Typo="Typo.h6">MudBlazor is @Text</MudText>
+
+
+@code {
+    bool _drawerOpen = true;
+
+    private MudTheme _theme = new();
+    private bool _isDarkMode;
+
+    void DrawerToggle()
+    {
+        _drawerOpen = !_drawerOpen;
+    }
+}
