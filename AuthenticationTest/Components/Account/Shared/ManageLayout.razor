@@ -1,0 +1,23 @@
+﻿@inherits LayoutComponentBase
+@layout AuthenticationTest.Components.Layout.MainLayout
+
+@using Microsoft.AspNetCore.Authorization
+
+@attribute [Authorize]
+
+<h1>Manage your account</h1>
+
+<div>
+    <AuthorizeView>
+    Hello @context.User.Identity?.Name!!!
+    <hr />
+    <div class="row">
+        <div class="col-lg-3">
+            <ManageNavMenu />
+        </div>
+        <div class="col-lg-9">
+            @Body
+        </div>
+    </div>
+    </AuthorizeView>
+</div>
