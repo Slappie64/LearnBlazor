@@ -34,7 +34,6 @@ C:\Users\luigilocal\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudB
 C:\Users\luigilocal\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManual\obj\Debug\net9.0\scopedcss\projectbundle\MudBlazorManual.bundle.scp.css
 C:\Users\luigilocal\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManual\obj\Debug\net9.0\compressed\tzxjg6is5z-f7451o6lak.gz
 C:\Users\luigilocal\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManual\obj\Debug\net9.0\compressed\0wz98yz2xy-shgs22i5w1.gz
-C:\Users\luigilocal\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManual\obj\Debug\net9.0\compressed\3tfe1b1t0a-khy4lop6wu.gz
 C:\Users\luigilocal\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManual\obj\Debug\net9.0\compressed\slrt03dn4t-bqjiyaj88i.gz
 C:\Users\luigilocal\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManual\obj\Debug\net9.0\compressed\yzz192uc0r-c2jlpeoesf.gz
 C:\Users\luigilocal\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManual\obj\Debug\net9.0\compressed\lokbgwinjn-erw9l3u2r3.gz

@@ -1,0 +1,14 @@
+C:\Users\slapp\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManualInteractive\obj\Debug\net9.0\MudBlazorManualInteractive.csproj.AssemblyReference.cache
+C:\Users\slapp\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManualInteractive\obj\Debug\net9.0\MudBlazorManualInteractive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slapp\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManualInteractive\obj\Debug\net9.0\MudBlazorManualInteractive.AssemblyInfoInputs.cache
+C:\Users\slapp\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManualInteractive\obj\Debug\net9.0\MudBlazorManualInteractive.AssemblyInfo.cs
+C:\Users\slapp\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManualInteractive\obj\Debug\net9.0\MudBlazorManualInteractive.csproj.CoreCompileInputs.cache
+C:\Users\slapp\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManualInteractive\obj\Debug\net9.0\MudBlazorManualInteractive.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\slapp\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManualInteractive\obj\Debug\net9.0\MudBlazorManualInteractive.sourcelink.json
+C:\Users\luigilocal\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManualInteractive\obj\Debug\net9.0\MudBlazorManualInteractive.csproj.AssemblyReference.cache
+C:\Users\luigilocal\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManualInteractive\obj\Debug\net9.0\MudBlazorManualInteractive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luigilocal\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManualInteractive\obj\Debug\net9.0\MudBlazorManualInteractive.AssemblyInfoInputs.cache
+C:\Users\luigilocal\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManualInteractive\obj\Debug\net9.0\MudBlazorManualInteractive.AssemblyInfo.cs
+C:\Users\luigilocal\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManualInteractive\obj\Debug\net9.0\MudBlazorManualInteractive.csproj.CoreCompileInputs.cache
+C:\Users\luigilocal\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManualInteractive\obj\Debug\net9.0\MudBlazorManualInteractive.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luigilocal\OneDrive\04-DEVELOPMENT\02 - Projects\07 - Learn Blazor\MudBlazorManualInteractive\obj\Debug\net9.0\MudBlazorManualInteractive.sourcelink.json

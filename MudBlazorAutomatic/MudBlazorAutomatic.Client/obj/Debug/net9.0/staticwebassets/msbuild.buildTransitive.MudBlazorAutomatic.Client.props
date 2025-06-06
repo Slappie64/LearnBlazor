@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MudBlazorAutomatic.Client.props" />
+</Project>

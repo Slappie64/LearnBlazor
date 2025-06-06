@@ -28,5 +28,6 @@ app.UseAntiforgery();
 app.MapStaticAssets();
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode();
-
+// .AddAdditionalAssemblies(typeof(MudBlazorManual.Client._Imports).Assembly);
+// .AddAdditionalAssemblies(typeof(MudBlazorManual.Components.MudBlazorManualComponents).Assembly);
 app.Run();
